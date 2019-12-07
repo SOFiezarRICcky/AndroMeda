@@ -48,9 +48,7 @@ public class RestoranActivity extends AppCompatActivity {
             @Override
             public void onClick(View v){
 
-                for(int i = 0;  i < list.size(); i++){
-                    i=Nomor;
-                }
+
                 //Ambil Data
                 String makanan = etMakanan.getText().toString();
                 String qty = etQty.getText().toString();

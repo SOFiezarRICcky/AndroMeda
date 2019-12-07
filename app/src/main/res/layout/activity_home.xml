@@ -23,6 +23,7 @@
         android:layout_height="wrap_content" />
 
     <Button
+        android:onClick="gotoLogin"
         android:text="Keluar"
         android:layout_marginTop="60dp"
         android:layout_marginLeft="105dp"

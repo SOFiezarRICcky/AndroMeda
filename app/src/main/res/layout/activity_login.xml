@@ -26,7 +26,7 @@
 
     <EditText
         android:id="@+id/etPassword"
-        android:inputType="textVisiblePassword"
+        android:password="true"
         android:hint="Password"
         android:layout_marginLeft="60dp"
         android:layout_width="300dp"
